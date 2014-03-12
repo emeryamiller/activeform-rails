@@ -5,5 +5,4 @@ end
 require 'active_support/core_ext/module/delegation'
 require 'active_record'
 require 'activeform-rails/form'
-require 'activeform-rails/mock_model'
 require 'activeform-rails/validate_uniqueness'
